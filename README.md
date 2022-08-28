@@ -98,6 +98,8 @@ sudo rm -r /home/gitlab-runner/.bash_logout
 sudo rm -r /home/username-kamu/.bash_logout
 ```
 
+untuk mengakses berhasil atau tidaknya deploy bisa akses lewat http://ip_HOST_kamu:90/api/
+
 
 
 
