@@ -4,8 +4,7 @@ Pada kesempatan kali ini saya akan mencoba mendeploy Golang dengan Docker kontai
 # Prasyarat
 - Dockerfile
 - Docker Compose
-- file .gitlab_ci.yml
- file .gitlab_ci.yml ini adalah file yang digunakan untuk menjalankan Jobs dan mengirimkan hasilnya kembali ke GitLab
+- .gitlab_ci.yml adalah file yang digunakan untuk menjalankan Jobs dan mengirimkan hasilnya kembali ke GitLab
 
 
 ## 1. Buat repository untuk Project Gitlab CI
